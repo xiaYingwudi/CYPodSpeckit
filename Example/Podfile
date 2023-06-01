@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CYPodSpecKit_Example' do
+  pod 'CYPodSpecKit', :path => '../'
+
+  target 'CYPodSpecKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
