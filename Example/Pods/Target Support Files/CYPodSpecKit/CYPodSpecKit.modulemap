@@ -1,0 +1,6 @@
+framework module CYPodSpecKit {
+  umbrella header "CYPodSpecKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

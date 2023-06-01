@@ -1,0 +1,16 @@
+PODS:
+  - CYPodSpecKit (0.1.0)
+
+DEPENDENCIES:
+  - CYPodSpecKit (from `../`)
+
+EXTERNAL SOURCES:
+  CYPodSpecKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYPodSpecKit: 8e85743791e97823d152d7737fd18d19caeddb8d
+
+PODFILE CHECKSUM: 9ff4d2a0c92e469dd5ce6a4b88aaa3ded5808ddb
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_CYPodSpecKit_Tests {
+  umbrella header "Pods-CYPodSpecKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
